@@ -2,6 +2,11 @@
 
 ## General Information
 
+ - info about what the repo is for (analyses, etc)
+ - who is contributing to the repo and where it came from
+ - if its a fork
+
+
 ## Data and file information
 
-## rendered output
+## Rendered output
