@@ -9,4 +9,10 @@
 
 ## Data and file information
 
+ - describe the files corresponding to data 
+ - describe the files corresponding to code
+ - (optional but nice) providing a tree diagram
+
+
+
 ## Rendered output
